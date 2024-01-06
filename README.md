@@ -43,6 +43,10 @@ To run the tests, use the following command:
 npm run test
 ```
 
+## Accessing the Redis Database
+
+You can use redis commander to access the redis database. It is available at [http://localhost:8081](http://localhost:8081).
+
 # Spanish version
 
 # API de Tasa de Cambio
@@ -89,3 +93,7 @@ Para ejecutar las pruebas, utiliza el siguiente comando:
 ```sh
 npm run test
 ```
+
+## Accediendo a la base de datos Redis
+
+Puedes utilizar redis commander para acceder a la base de datos redis. Está disponible en [http://localhost:8081](http://localhost:8081).
